@@ -1,3 +1,1 @@
-# Assignment-cpp
-
-Author - Suleman Lakra
+oops-2nd-sem
